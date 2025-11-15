@@ -1,0 +1,3 @@
+C:/Users/ketsa/CLionProjects/VehicleManagementSystem/cmake-build-debug/CMakeFiles/VehicleManagementSystem.dir
+C:/Users/ketsa/CLionProjects/VehicleManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ketsa/CLionProjects/VehicleManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
