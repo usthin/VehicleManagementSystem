@@ -85,6 +85,24 @@ build CMakeFiles/VehicleManagementSystem.dir/VehicleService.cpp.obj: CXX_COMPILE
   OBJECT_DIR = CMakeFiles\VehicleManagementSystem.dir
   OBJECT_FILE_DIR = CMakeFiles\VehicleManagementSystem.dir
 
+build CMakeFiles/VehicleManagementSystem.dir/VehicleFactory.cpp.obj: CXX_COMPILER__VehicleManagementSystem_unscanned_Debug C$:/Users/ketsa/CLionProjects/VehicleManagementSystem/VehicleFactory.cpp || cmake_object_order_depends_target_VehicleManagementSystem
+  DEP_FILE = CMakeFiles\VehicleManagementSystem.dir\VehicleFactory.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\VehicleManagementSystem.dir
+  OBJECT_FILE_DIR = CMakeFiles\VehicleManagementSystem.dir
+
+build CMakeFiles/VehicleManagementSystem.dir/VehicleManager.cpp.obj: CXX_COMPILER__VehicleManagementSystem_unscanned_Debug C$:/Users/ketsa/CLionProjects/VehicleManagementSystem/VehicleManager.cpp || cmake_object_order_depends_target_VehicleManagementSystem
+  DEP_FILE = CMakeFiles\VehicleManagementSystem.dir\VehicleManager.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\VehicleManagementSystem.dir
+  OBJECT_FILE_DIR = CMakeFiles\VehicleManagementSystem.dir
+
+build CMakeFiles/VehicleManagementSystem.dir/Menu.cpp.obj: CXX_COMPILER__VehicleManagementSystem_unscanned_Debug C$:/Users/ketsa/CLionProjects/VehicleManagementSystem/Menu.cpp || cmake_object_order_depends_target_VehicleManagementSystem
+  DEP_FILE = CMakeFiles\VehicleManagementSystem.dir\Menu.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\VehicleManagementSystem.dir
+  OBJECT_FILE_DIR = CMakeFiles\VehicleManagementSystem.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target VehicleManagementSystem
@@ -93,7 +111,7 @@ build CMakeFiles/VehicleManagementSystem.dir/VehicleService.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable VehicleManagementSystem.exe
 
-build VehicleManagementSystem.exe: CXX_EXECUTABLE_LINKER__VehicleManagementSystem_Debug CMakeFiles/VehicleManagementSystem.dir/main.cpp.obj CMakeFiles/VehicleManagementSystem.dir/Vehicle.cpp.obj CMakeFiles/VehicleManagementSystem.dir/Car.cpp.obj CMakeFiles/VehicleManagementSystem.dir/ElectricCar.cpp.obj CMakeFiles/VehicleManagementSystem.dir/GasolineCar.cpp.obj CMakeFiles/VehicleManagementSystem.dir/VehicleService.cpp.obj
+build VehicleManagementSystem.exe: CXX_EXECUTABLE_LINKER__VehicleManagementSystem_Debug CMakeFiles/VehicleManagementSystem.dir/main.cpp.obj CMakeFiles/VehicleManagementSystem.dir/Vehicle.cpp.obj CMakeFiles/VehicleManagementSystem.dir/Car.cpp.obj CMakeFiles/VehicleManagementSystem.dir/ElectricCar.cpp.obj CMakeFiles/VehicleManagementSystem.dir/GasolineCar.cpp.obj CMakeFiles/VehicleManagementSystem.dir/VehicleService.cpp.obj CMakeFiles/VehicleManagementSystem.dir/VehicleFactory.cpp.obj CMakeFiles/VehicleManagementSystem.dir/VehicleManager.cpp.obj CMakeFiles/VehicleManagementSystem.dir/Menu.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\VehicleManagementSystem.dir

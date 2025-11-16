@@ -15,4 +15,10 @@ add_executable(VehicleManagementSystem main.cpp
         GasolineCar.h
         GasolineCar.cpp
         VehicleService.h
-        VehicleService.cpp)
+        VehicleService.cpp
+        VehicleFactory.h
+        VehicleFactory.cpp
+        VehicleManager.h
+        VehicleManager.cpp
+        Menu.h
+        Menu.cpp)
