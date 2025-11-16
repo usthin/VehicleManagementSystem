@@ -1,0 +1,16 @@
+# ninja log v6
+28	2467	7849112362350294	CMakeFiles/VehicleManagementSystem.dir/Vehicle.cpp.obj	35f91f7466be4319
+48	2520	7849112362560192	CMakeFiles/VehicleManagementSystem.dir/Car.cpp.obj	c7de1a015b4c2cc2
+6	2647	7849112362130447	CMakeFiles/VehicleManagementSystem.dir/main.cpp.obj	4c16225045892290
+2648	4354	7849112388549814	CMakeFiles/VehicleManagementSystem.dir/VehicleService.cpp.obj	16d2ba8653f274
+2476	4510	7849112386825705	CMakeFiles/VehicleManagementSystem.dir/ElectricCar.cpp.obj	a42f525777f202c2
+2521	4646	7849112387275452	CMakeFiles/VehicleManagementSystem.dir/GasolineCar.cpp.obj	da56ce2e94a055d7
+4354	6275	7849112405610482	CMakeFiles/VehicleManagementSystem.dir/VehicleFactory.cpp.obj	6799ab925c10467b
+4646	6520	7849112408533144	CMakeFiles/VehicleManagementSystem.dir/Menu.cpp.obj	739e473cb52f309e
+4510	6899	7849112407169787	CMakeFiles/VehicleManagementSystem.dir/VehicleManager.cpp.obj	eb99134eefc40404
+6899	7547	7849112431058890	VehicleManagementSystem.exe	cfbfa2ffb05dd068
+56	2860	7849185786560091	CMakeFiles/VehicleManagementSystem.dir/VehicleFactory.cpp.obj	6799ab925c10467b
+39	3104	7849185786397746	CMakeFiles/VehicleManagementSystem.dir/main.cpp.obj	4c16225045892290
+68	3689	7849185786686973	CMakeFiles/VehicleManagementSystem.dir/VehicleManager.cpp.obj	eb99134eefc40404
+2861	4627	7849185814609662	CMakeFiles/VehicleManagementSystem.dir/Menu.cpp.obj	739e473cb52f309e
+4628	5340	7849185832273761	VehicleManagementSystem.exe	cfbfa2ffb05dd068
